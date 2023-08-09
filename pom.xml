@@ -11,6 +11,7 @@
 
 	<groupId>com.infostack</groupId>
 	<artifactId>petadoption</artifactId>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>petadoption</name>
 	<description>This project helps the user to search for various pet animals of various categories.</description>
@@ -60,6 +61,7 @@
 	</dependencies>
 
 	<build>
+		<finalName></finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
