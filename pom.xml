@@ -16,7 +16,7 @@
 	<name>petadoption</name>
 	<description>This project helps the user to search for various pet animals of various categories.</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
